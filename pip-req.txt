@@ -1,0 +1,4 @@
+pymysql==0.9.3
+tqdm==4.31.1
+pyyaml==3.13
+argparse==1.4.0
